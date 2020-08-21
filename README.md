@@ -1,0 +1,2 @@
+# wonderlust
+A personalized machine learning model for travel suggestions based on your historical preference and demographic information using Python.  There are three parts to this:  A function to build a database which records everything about the locations you've liked and disliked. A function to train a model to your database. A function to use the trained model to automatically like and dislike new locations..
